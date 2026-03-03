@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/caveat</item>
+        <item>@font/dancing_script</item>
+        <item>@font/indie_flower</item>
+        <item>@font/permanent_marker</item>
+        <item>@font/shadows_into_light</item>
+    </array>
+</resources>

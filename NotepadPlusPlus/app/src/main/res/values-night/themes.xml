@@ -1,0 +1,32 @@
+<resources>
+    <style name="Theme.NotepadPlusPlus" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#A78BFA</item>
+        <item name="colorPrimaryVariant">#7C3AED</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSecondary">#A78BFA</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="colorSurface">#1F1F1F</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+        <item name="android:colorBackground">#121212</item>
+        <item name="colorError">#EF4444</item>
+        <item name="android:statusBarColor">#1F1F1F</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
+    </style>
+
+    <style name="Theme.NotepadPlusPlus.Splash" parent="Theme.NotepadPlusPlus">
+        <item name="android:windowBackground">#121212</item>
+    </style>
+
+    <style name="ToolbarTitle" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="WindowAnimationTransition">
+        <item name="android:activityOpenEnterAnimation">@anim/fade_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/fade_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/fade_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/fade_out</item>
+    </style>
+</resources>

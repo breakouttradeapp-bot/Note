@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Notepad++</string>
+    <string name="tagline">Smart Notes</string>
+    <string name="search_notes">Search notes…</string>
+    <string name="no_notes">No Notes Yet</string>
+    <string name="tap_to_add">Tap + to create your first note</string>
+    <string name="new_note">New Note</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="note_title">Title *</string>
+    <string name="note_content">Content (optional)</string>
+    <string name="save">Save Note</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="delete_note_confirm">Delete this note? Cannot be undone.</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="unsaved_changes">Unsaved Changes</string>
+    <string name="unsaved_changes_message">You have unsaved changes. Discard them?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_conditions">Terms &amp; Conditions</string>
+    <string name="privacy_policy_content">Privacy Policy\n\nLast updated: 2024\n\n1. Data Collection\nThis app does NOT collect, transmit, or share any personal data. All notes are stored entirely on your device using a local Room database.\n\n2. Permissions\nThis app uses minimal permissions: biometric authentication (optional, for note locking), alarm scheduling (for reminders), and notifications (for reminder alerts). No internet permission is required.\n\n3. Local Storage Only\nAll notes are stored in a secure local database on your Android device. Only you have access to your notes.\n\n4. Third-Party Services\nThis app uses no analytics, advertising, or tracking services of any kind.\n\n5. Your Rights\nSince no data leaves your device, you have complete control. You can delete all data by clearing the app or uninstalling it.\n\nContact us through the Play Store listing with any questions.</string>
+    <string name="terms_content">Terms and Conditions\n\nLast updated: 2024\n\n1. Acceptance\nBy using this app, you agree to these Terms.\n\n2. License\nWe grant a personal, non-commercial license to use this app.\n\n3. User Content\nYou own all notes and data you create. We have no access to it.\n\n4. Disclaimer\nThis app is provided as-is. We are not liable for data loss. Back up important notes using the built-in Backup feature.\n\n5. Updates\nWe may update the app and these terms. Continued use constitutes acceptance.\n\n6. Governing Law\nGoverned by applicable local laws.\n\nThank you for using Notepad++ – Smart Notes.</string>
+</resources>
