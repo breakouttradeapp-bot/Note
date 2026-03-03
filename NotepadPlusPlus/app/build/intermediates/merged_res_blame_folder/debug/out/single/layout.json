@@ -1,38 +1,42 @@
 [
     {
-        "merged": "com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/activity_settings.xml",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/activity_settings.xml"
-    },
-    {
         "merged": "com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/activity_notes_list.xml",
         "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/activity_notes_list.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/activity_privacy.xml",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/activity_privacy.xml"
+        "merged": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/activity_note_detail.xml",
+        "source": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-main-58:/layout/activity_note_detail.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/activity_splash.xml",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/activity_splash.xml"
+        "merged": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/activity_backup_restore.xml",
+        "source": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-main-58:/layout/activity_backup_restore.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/activity_add_edit_note.xml",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/activity_add_edit_note.xml"
+        "merged": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/activity_add_edit_note.xml",
+        "source": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-main-58:/layout/activity_add_edit_note.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/activity_note_detail.xml",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/activity_note_detail.xml"
+        "merged": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/activity_splash.xml",
+        "source": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-main-58:/layout/activity_splash.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/item_note_grid.xml",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/item_note_grid.xml"
+        "merged": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/item_note.xml",
+        "source": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-main-58:/layout/item_note.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/item_note.xml",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/item_note.xml"
+        "merged": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/activity_settings.xml",
+        "source": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-main-58:/layout/activity_settings.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/activity_backup_restore.xml",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/activity_backup_restore.xml"
+        "merged": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/activity_notes_list.xml",
+        "source": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-main-58:/layout/activity_notes_list.xml"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/activity_privacy.xml",
+        "source": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-main-58:/layout/activity_privacy.xml"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/layout/item_note_grid.xml",
+        "source": "/root/.gradle/daemon/8.7/com.smartnotes.notepadplusplus.app-main-58:/layout/item_note_grid.xml"
     }
 ]
