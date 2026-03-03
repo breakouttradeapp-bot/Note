@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@color/background">
 
-    <!-- ✅ APP BAR -->
+    <!-- ================= APP BAR ================= -->
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appBarLayout"
         android:layout_width="match_parent"
@@ -57,27 +57,37 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
-    <!-- ✅ AD BANNER BELOW APPBAR (CORRECT POSITION) -->
-    <com.google.android.gms.ads.AdView
-        android:id="@+id/adView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:layout_behavior="@string/appbar_scrolling_view_behavior"
-        ads:adSize="BANNER"
-        ads:adUnitId="ca-app-pub-3940256099942544/6300978111" />
 
-    <!-- ✅ RECYCLER VIEW -->
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerView"
+    <!-- ================= CONTENT CONTAINER ================= -->
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:clipToPadding="false"
-        android:paddingHorizontal="12dp"
-        android:paddingTop="8dp"
-        android:paddingBottom="16dp"
-        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+        android:orientation="vertical"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
-    <!-- ✅ ProgressBar -->
+        <!-- ✅ Ad Banner (TOP OF CONTENT) -->
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-3940256099942544/6300978111" />
+
+        <!-- ✅ RecyclerView -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:clipToPadding="false"
+            android:paddingHorizontal="12dp"
+            android:paddingTop="8dp"
+            android:paddingBottom="16dp" />
+
+    </LinearLayout>
+
+
+    <!-- ================= ProgressBar ================= -->
     <ProgressBar
         android:id="@+id/progressBar"
         android:layout_width="wrap_content"
@@ -85,7 +95,8 @@
         android:layout_gravity="center"
         android:visibility="gone" />
 
-    <!-- ✅ Empty State -->
+
+    <!-- ================= Empty State ================= -->
     <LinearLayout
         android:id="@+id/layoutEmpty"
         android:layout_width="wrap_content"
@@ -117,7 +128,8 @@
             android:textSize="14sp" />
     </LinearLayout>
 
-    <!-- FAB -->
+
+    <!-- ================= FAB ================= -->
     <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
         android:id="@+id/fabAddNote"
         android:layout_width="wrap_content"
