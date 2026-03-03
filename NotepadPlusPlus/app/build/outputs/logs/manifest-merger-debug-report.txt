@@ -224,12 +224,12 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /root/.gradle/caches/transf
 		ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:21:9-65
 	android:name
 		ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:19:9-40
-meta-data#com.google.android.gms.ads.APPLICATION_ID
+meta-data#ca-app-pub-1607968585289432~5123982781
 ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:31:9-33:69
 	android:value
 		ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:33:13-67
 	android:name
-		ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:32:13-69
+		ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:32:13-66
 meta-data#preloaded_fonts
 ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:36:9-38:57
 	android:resource

@@ -131,9 +131,9 @@
 70        <!-- AdMob App ID -->
 71        <meta-data
 71-->/root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:31:9-33:69
-72            android:name="com.google.android.gms.ads.APPLICATION_ID"
-72-->/root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:32:13-69
-73            android:value="ca-app-pub-3940256099942544~3347511713" />
+72            android:name="ca-app-pub-1607968585289432~5123982781"
+72-->/root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:32:13-66
+73            android:value="ca-app-pub-1607968585289432/7171561623" />
 73-->/root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:33:13-67
 74
 75        <!-- Preloaded fonts meta-data -->
