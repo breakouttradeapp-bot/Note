@@ -67,10 +67,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.NotepadPlusPlus" >
 
-        <!-- AdMob App ID -->
+        <!-- ✅ CORRECT AdMob App ID (USES ~ NOT /) -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-1607968585289432/7171561623" />
+            android:value="ca-app-pub-1607968585289432~5123982781" />
 
         <!-- Preloaded fonts meta-data -->
         <meta-data
@@ -112,7 +112,7 @@
             android:name="com.smartnotes.notepadplusplus.ui.privacy.TermsActivity"
             android:exported="false" />
 
-        <!-- Notification channel and receiver for reminders -->
+        <!-- Reminder Receiver -->
         <receiver
             android:name="com.smartnotes.notepadplusplus.receivers.ReminderReceiver"
             android:exported="false" />
@@ -133,6 +133,7 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/file_provider_paths" />
         </provider>
+
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
