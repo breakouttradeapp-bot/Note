@@ -7,6 +7,7 @@
     android:layout_height="match_parent"
     android:background="@color/background">
 
+    <!-- ✅ APP BAR -->
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appBarLayout"
         android:layout_width="match_parent"
@@ -22,14 +23,6 @@
             app:title="@string/app_name"
             app:titleTextColor="@color/text_primary"
             app:menu="@menu/menu_notes_list" />
-
-        <!-- ✅ Ad at TOP -->
-        <com.google.android.gms.ads.AdView
-            android:id="@+id/adView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            ads:adSize="BANNER"
-            ads:adUnitId="ca-app-pub-1607968585289432/7171561623" />
 
         <!-- Search Section -->
         <LinearLayout
@@ -64,7 +57,16 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
-    <!-- ✅ RecyclerView -->
+    <!-- ✅ AD BANNER BELOW APPBAR (CORRECT POSITION) -->
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-3940256099942544/6300978111" />
+
+    <!-- ✅ RECYCLER VIEW -->
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
         android:layout_width="match_parent"
@@ -75,7 +77,7 @@
         android:paddingBottom="16dp"
         app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 
-    <!-- ✅ ProgressBar (RESTORED) -->
+    <!-- ✅ ProgressBar -->
     <ProgressBar
         android:id="@+id/progressBar"
         android:layout_width="wrap_content"
@@ -83,7 +85,7 @@
         android:layout_gravity="center"
         android:visibility="gone" />
 
-    <!-- ✅ Empty State (RESTORED) -->
+    <!-- ✅ Empty State -->
     <LinearLayout
         android:id="@+id/layoutEmpty"
         android:layout_width="wrap_content"
