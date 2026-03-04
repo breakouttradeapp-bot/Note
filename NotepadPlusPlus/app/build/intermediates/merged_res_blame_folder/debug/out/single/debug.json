@@ -1,194 +1,194 @@
 [
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_ic_pin.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/ic_pin.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/xml_data_extraction_rules.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/font_caveat.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/font/caveat.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/layout_item_note.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/layout/item_note.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/layout_activity_add_edit_note.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/layout/activity_add_edit_note.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/layout_activity_splash.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/activity_splash.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/font_indie_flower.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/font/indie_flower.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_ic_grid.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/ic_grid.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_ic_notification.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/ic_notification.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_ic_empty_notes.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/ic_empty_notes.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/layout_activity_backup_restore.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/activity_backup_restore.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_ic_list.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/ic_list.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/xml_file_provider_paths.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/xml/file_provider_paths.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/layout_activity_notes_list.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/layout/activity_notes_list.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/layout_activity_backup_restore.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/layout/activity_backup_restore.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/font_indie_flower.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/font/indie_flower.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/anim_fade_in.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/anim/fade_in.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_ic_reminder.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/ic_reminder.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/anim_fade_out.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/anim/fade_out.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_ic_grid.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/ic_grid.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_ic_backup.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/ic_backup.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/ic_launcher_background.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_bg_label_badge.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/bg_label_badge.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/menu_menu_notes_list.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/menu/menu_notes_list.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_ic_add.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/ic_add.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_ic_lock.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/ic_lock.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_ic_pin.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/ic_pin.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_ic_empty_notes.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/ic_empty_notes.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/anim_fade_out.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/anim/fade_out.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/font_shadows_into_light.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/font/shadows_into_light.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/layout_activity_privacy.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/activity_privacy.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_ic_edit.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/ic_edit.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/layout_item_note_grid.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/item_note_grid.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/xml_backup_rules.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/font_permanent_marker.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/font/permanent_marker.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/font_permanent_marker.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/font/permanent_marker.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/layout_activity_privacy.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/layout/activity_privacy.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_ic_list.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/ic_list.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/anim_fade_in.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/anim/fade_in.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/menu_menu_notes_list.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/menu/menu_notes_list.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_bg_label_badge.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/bg_label_badge.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_ic_reminder.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/ic_reminder.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_ic_edit.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/ic_edit.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_ic_search.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/ic_search.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/layout_activity_settings.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/layout/activity_settings.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/xml_data_extraction_rules.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/xml/data_extraction_rules.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/font_shadows_into_light.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/font/shadows_into_light.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/font_handwriting_font_family.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/font/handwriting_font_family.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_ic_moon.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/ic_moon.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/layout_activity_notes_list.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/activity_notes_list.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_ic_lock.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/ic_lock.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/layout_activity_add_edit_note.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/activity_add_edit_note.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/font_dancing_script.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/font/dancing_script.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/font_caveat.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/font/caveat.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/layout_item_note.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/item_note.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_ic_notification.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/ic_notification.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_ic_moon.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/ic_moon.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_ic_backup.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/ic_backup.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_ic_add.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/ic_add.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/font_dancing_script.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/font/dancing_script.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/layout_activity_note_detail.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/activity_note_detail.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/xml_file_provider_paths.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/xml/file_provider_paths.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/xml_backup_rules.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/xml/backup_rules.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/layout_activity_note_detail.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/layout/activity_note_detail.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/layout_activity_splash.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/layout/activity_splash.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/layout_activity_settings.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/layout/activity_settings.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/drawable_ic_search.xml.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/drawable/ic_search.xml"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/font_handwriting_font_family.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/font/handwriting_font_family.xml"
     },
     {
-        "merged": "com.smartnotes.notepadplusplus.app-merged_res-56:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.smartnotes.notepadplusplus.app-main-58:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.smartnotes.notepadplusplus.app-merged_res-57:/layout_item_note_grid.xml.flat",
+        "source": "com.smartnotes.notepadplusplus.app-main-59:/layout/item_note_grid.xml"
     }
 ]

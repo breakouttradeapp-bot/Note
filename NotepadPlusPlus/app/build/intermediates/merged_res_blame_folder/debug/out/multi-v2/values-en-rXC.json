@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.smartnotes.notepadplusplus.app-mergeDebugResources-54:/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "com.smartnotes.notepadplusplus.app-mergeDebugResources-55:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
                     "source": "/root/.gradle/caches/transforms-4/69450d127fb4e70867a74024beb32337/transformed/biometric-1.1.0/res/values-en-rXC/values-en-rXC.xml",

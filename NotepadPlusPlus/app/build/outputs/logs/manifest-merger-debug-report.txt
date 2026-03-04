@@ -23,17 +23,17 @@ MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /root/.gradle/caches/
 MERGED from [androidx.appcompat:appcompat:1.6.1] /root/.gradle/caches/transforms-4/dda6cb62570bc147539fe9f2529a3f51/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.3.2] /root/.gradle/caches/transforms-4/7a89259b29bc3ff895125d6d31d1b1e7/transformed/recyclerview-1.3.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /root/.gradle/caches/transforms-4/59945cb6feb230800b3165c37d8105f1/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-ads:22.6.0] /root/.gradle/caches/transforms-4/eb4c3785e89d0f5aa2cfc34ecc634e44/transformed/play-services-ads-22.6.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:17:1-95:12
-MERGED from [com.google.android.gms:play-services-ads-base:22.6.0] /root/.gradle/caches/transforms-4/91b804bacd4aa0e5f617005ed8572a02/transformed/play-services-ads-base-22.6.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.ump:user-messaging-platform:2.1.0] /root/.gradle/caches/transforms-4/a6773192bad7bafc982c8eb39f3db322/transformed/user-messaging-platform-2.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-ads:23.2.0] /root/.gradle/caches/transforms-4/824f7d47017ba58ff8cb8d0d69991d05/transformed/play-services-ads-23.2.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:17:1-95:12
+MERGED from [com.google.android.gms:play-services-ads-base:23.2.0] /root/.gradle/caches/transforms-4/520c6024ed5c5181619fced4896caec2/transformed/play-services-ads-base-23.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /root/.gradle/caches/transforms-4/de79fb4df861898d18d2ad9ad5818ba5/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.android.gms:play-services-appset:16.0.1] /root/.gradle/caches/transforms-4/c28867898dccee961b03a096b79b57c9/transformed/play-services-appset-16.0.1/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:18.0.0] /root/.gradle/caches/transforms-4/dfe5062106ccfe729a27cf74090d5bbe/transformed/play-services-base-18.0.0/AndroidManifest.xml:16:1-24:12
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /root/.gradle/caches/transforms-4/925c495776ba2f56c326eb7d48ccb86d/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /root/.gradle/caches/transforms-4/76b6905f61579112cedd14779ed1e4dd/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /root/.gradle/caches/transforms-4/075f615396a86215feb13148c3cc6df1/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.ump:user-messaging-platform:2.2.0] /root/.gradle/caches/transforms-4/21ba22025ed6e9126fb17cfff9b9077d/transformed/user-messaging-platform-2.2.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /root/.gradle/caches/transforms-4/2f1e5612f73b32897a7952c6e2c81f44/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:18.2.0] /root/.gradle/caches/transforms-4/e4855e39e060f35e6e3ed58161242327/transformed/play-services-basement-18.2.0/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /root/.gradle/caches/transforms-4/8dc5147520a30388d774325115293305/transformed/play-services-basement-18.3.0/AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.fragment:fragment:1.6.2] /root/.gradle/caches/transforms-4/7c98805f05bdd9387350fa88ab78e81f/transformed/fragment-1.6.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment-ktx:1.6.2] /root/.gradle/caches/transforms-4/e76790ebca9e07083e70f589e0b28ee0/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.8.2] /root/.gradle/caches/transforms-4/22aac1973c986c37ba626ee5aac27041/transformed/activity-1.8.2/AndroidManifest.xml:17:1-22:12
@@ -49,6 +49,7 @@ MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /root/.gradle/caches/
 MERGED from [androidx.work:work-runtime-ktx:2.9.0] /root/.gradle/caches/transforms-4/60230194361560b05dc925221ac48be8/transformed/work-runtime-ktx-2.9.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.work:work-runtime:2.9.0] /root/.gradle/caches/transforms-4/ee4895c1871980692733b167f58b0256/transformed/work-runtime-2.9.0/AndroidManifest.xml:17:1-145:12
 MERGED from [androidx.browser:browser:1.4.0] /root/.gradle/caches/transforms-4/79f464c68f7abde692eaa6636ff8a14e/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.11.0-alpha02] /root/.gradle/caches/transforms-4/2a5f8c76f9fc2bd524657f047f6374f1/transformed/webkit-1.11.0-alpha02/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /root/.gradle/caches/transforms-4/fbe1c74e6ea7840588562222a5713848/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /root/.gradle/caches/transforms-4/d14fa38ffda413e1ecee0a8fac26796f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /root/.gradle/caches/transforms-4/115813d9dc0be3ba678e3e5eeb62717d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -101,16 +102,16 @@ MERGED from [androidx.print:print:1.0.0] /root/.gradle/caches/transforms-4/629ae
 		ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /root/.gradle/caches/transforms-4/075f615396a86215feb13148c3cc6df1/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /root/.gradle/caches/transforms-4/075f615396a86215feb13148c3cc6df1/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:6:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /root/.gradle/caches/transforms-4/075f615396a86215feb13148c3cc6df1/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /root/.gradle/caches/transforms-4/075f615396a86215feb13148c3cc6df1/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:24:5-79
 MERGED from [androidx.work:work-runtime:2.9.0] /root/.gradle/caches/transforms-4/ee4895c1871980692733b167f58b0256/transformed/work-runtime-2.9.0/AndroidManifest.xml:24:5-79
@@ -139,7 +140,7 @@ ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:10:5-77
 		ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:10:22-74
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
 ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:11:5-81
-REJECTED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:30:5-32:31
+REJECTED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:30:5-32:31
 REJECTED from [androidx.work:work-runtime:2.9.0] /root/.gradle/caches/transforms-4/ee4895c1871980692733b167f58b0256/transformed/work-runtime-2.9.0/AndroidManifest.xml:25:5-81
 	android:name
 		ADDED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml:11:22-78
@@ -166,22 +167,22 @@ MERGED from [com.google.android.material:material:1.11.0] /root/.gradle/caches/t
 MERGED from [com.google.android.material:material:1.11.0] /root/.gradle/caches/transforms-4/507502aedace5e9179a5854994a92b89/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /root/.gradle/caches/transforms-4/e72fc922825badbfebcb23e8681551e6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /root/.gradle/caches/transforms-4/e72fc922825badbfebcb23e8681551e6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:53:5-93:19
-MERGED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:53:5-93:19
-MERGED from [com.google.android.gms:play-services-ads-base:22.6.0] /root/.gradle/caches/transforms-4/91b804bacd4aa0e5f617005ed8572a02/transformed/play-services-ads-base-22.6.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:22.6.0] /root/.gradle/caches/transforms-4/91b804bacd4aa0e5f617005ed8572a02/transformed/play-services-ads-base-22.6.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:53:5-93:19
+MERGED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:53:5-93:19
+MERGED from [com.google.android.gms:play-services-ads-base:23.2.0] /root/.gradle/caches/transforms-4/520c6024ed5c5181619fced4896caec2/transformed/play-services-ads-base-23.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:23.2.0] /root/.gradle/caches/transforms-4/520c6024ed5c5181619fced4896caec2/transformed/play-services-ads-base-23.2.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /root/.gradle/caches/transforms-4/de79fb4df861898d18d2ad9ad5818ba5/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /root/.gradle/caches/transforms-4/de79fb4df861898d18d2ad9ad5818ba5/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-appset:16.0.1] /root/.gradle/caches/transforms-4/c28867898dccee961b03a096b79b57c9/transformed/play-services-appset-16.0.1/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-appset:16.0.1] /root/.gradle/caches/transforms-4/c28867898dccee961b03a096b79b57c9/transformed/play-services-appset-16.0.1/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-base:18.0.0] /root/.gradle/caches/transforms-4/dfe5062106ccfe729a27cf74090d5bbe/transformed/play-services-base-18.0.0/AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-base:18.0.0] /root/.gradle/caches/transforms-4/dfe5062106ccfe729a27cf74090d5bbe/transformed/play-services-base-18.0.0/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /root/.gradle/caches/transforms-4/925c495776ba2f56c326eb7d48ccb86d/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /root/.gradle/caches/transforms-4/925c495776ba2f56c326eb7d48ccb86d/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /root/.gradle/caches/transforms-4/76b6905f61579112cedd14779ed1e4dd/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /root/.gradle/caches/transforms-4/76b6905f61579112cedd14779ed1e4dd/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /root/.gradle/caches/transforms-4/2f1e5612f73b32897a7952c6e2c81f44/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /root/.gradle/caches/transforms-4/2f1e5612f73b32897a7952c6e2c81f44/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:18.2.0] /root/.gradle/caches/transforms-4/e4855e39e060f35e6e3ed58161242327/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:18.2.0] /root/.gradle/caches/transforms-4/e4855e39e060f35e6e3ed58161242327/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /root/.gradle/caches/transforms-4/8dc5147520a30388d774325115293305/transformed/play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /root/.gradle/caches/transforms-4/8dc5147520a30388d774325115293305/transformed/play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-4/49eb09d94f08b013a4a6f990ea0b4311/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-4/49eb09d94f08b013a4a6f990ea0b4311/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.work:work-runtime:2.9.0] /root/.gradle/caches/transforms-4/ee4895c1871980692733b167f58b0256/transformed/work-runtime-2.9.0/AndroidManifest.xml:28:5-143:19
@@ -346,28 +347,28 @@ MERGED from [androidx.recyclerview:recyclerview:1.3.2] /root/.gradle/caches/tran
 MERGED from [androidx.recyclerview:recyclerview:1.3.2] /root/.gradle/caches/transforms-4/7a89259b29bc3ff895125d6d31d1b1e7/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /root/.gradle/caches/transforms-4/59945cb6feb230800b3165c37d8105f1/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
 MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /root/.gradle/caches/transforms-4/59945cb6feb230800b3165c37d8105f1/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads:22.6.0] /root/.gradle/caches/transforms-4/eb4c3785e89d0f5aa2cfc34ecc634e44/transformed/play-services-ads-22.6.0/AndroidManifest.xml:21:5-23:52
-MERGED from [com.google.android.gms:play-services-ads:22.6.0] /root/.gradle/caches/transforms-4/eb4c3785e89d0f5aa2cfc34ecc634e44/transformed/play-services-ads-22.6.0/AndroidManifest.xml:21:5-23:52
-MERGED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:21:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:21:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:22.6.0] /root/.gradle/caches/transforms-4/91b804bacd4aa0e5f617005ed8572a02/transformed/play-services-ads-base-22.6.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:22.6.0] /root/.gradle/caches/transforms-4/91b804bacd4aa0e5f617005ed8572a02/transformed/play-services-ads-base-22.6.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.ump:user-messaging-platform:2.1.0] /root/.gradle/caches/transforms-4/a6773192bad7bafc982c8eb39f3db322/transformed/user-messaging-platform-2.1.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.ump:user-messaging-platform:2.1.0] /root/.gradle/caches/transforms-4/a6773192bad7bafc982c8eb39f3db322/transformed/user-messaging-platform-2.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads:23.2.0] /root/.gradle/caches/transforms-4/824f7d47017ba58ff8cb8d0d69991d05/transformed/play-services-ads-23.2.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:23.2.0] /root/.gradle/caches/transforms-4/824f7d47017ba58ff8cb8d0d69991d05/transformed/play-services-ads-23.2.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:23.2.0] /root/.gradle/caches/transforms-4/520c6024ed5c5181619fced4896caec2/transformed/play-services-ads-base-23.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:23.2.0] /root/.gradle/caches/transforms-4/520c6024ed5c5181619fced4896caec2/transformed/play-services-ads-base-23.2.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /root/.gradle/caches/transforms-4/de79fb4df861898d18d2ad9ad5818ba5/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /root/.gradle/caches/transforms-4/de79fb4df861898d18d2ad9ad5818ba5/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-appset:16.0.1] /root/.gradle/caches/transforms-4/c28867898dccee961b03a096b79b57c9/transformed/play-services-appset-16.0.1/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-appset:16.0.1] /root/.gradle/caches/transforms-4/c28867898dccee961b03a096b79b57c9/transformed/play-services-appset-16.0.1/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:18.0.0] /root/.gradle/caches/transforms-4/dfe5062106ccfe729a27cf74090d5bbe/transformed/play-services-base-18.0.0/AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-base:18.0.0] /root/.gradle/caches/transforms-4/dfe5062106ccfe729a27cf74090d5bbe/transformed/play-services-base-18.0.0/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /root/.gradle/caches/transforms-4/925c495776ba2f56c326eb7d48ccb86d/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /root/.gradle/caches/transforms-4/925c495776ba2f56c326eb7d48ccb86d/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /root/.gradle/caches/transforms-4/76b6905f61579112cedd14779ed1e4dd/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /root/.gradle/caches/transforms-4/76b6905f61579112cedd14779ed1e4dd/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /root/.gradle/caches/transforms-4/075f615396a86215feb13148c3cc6df1/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /root/.gradle/caches/transforms-4/075f615396a86215feb13148c3cc6df1/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:2.2.0] /root/.gradle/caches/transforms-4/21ba22025ed6e9126fb17cfff9b9077d/transformed/user-messaging-platform-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:2.2.0] /root/.gradle/caches/transforms-4/21ba22025ed6e9126fb17cfff9b9077d/transformed/user-messaging-platform-2.2.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /root/.gradle/caches/transforms-4/2f1e5612f73b32897a7952c6e2c81f44/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /root/.gradle/caches/transforms-4/2f1e5612f73b32897a7952c6e2c81f44/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:18.2.0] /root/.gradle/caches/transforms-4/e4855e39e060f35e6e3ed58161242327/transformed/play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.2.0] /root/.gradle/caches/transforms-4/e4855e39e060f35e6e3ed58161242327/transformed/play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /root/.gradle/caches/transforms-4/8dc5147520a30388d774325115293305/transformed/play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /root/.gradle/caches/transforms-4/8dc5147520a30388d774325115293305/transformed/play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
 MERGED from [androidx.fragment:fragment:1.6.2] /root/.gradle/caches/transforms-4/7c98805f05bdd9387350fa88ab78e81f/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.6.2] /root/.gradle/caches/transforms-4/7c98805f05bdd9387350fa88ab78e81f/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment-ktx:1.6.2] /root/.gradle/caches/transforms-4/e76790ebca9e07083e70f589e0b28ee0/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:20:5-44
@@ -398,6 +399,8 @@ MERGED from [androidx.work:work-runtime:2.9.0] /root/.gradle/caches/transforms-4
 MERGED from [androidx.work:work-runtime:2.9.0] /root/.gradle/caches/transforms-4/ee4895c1871980692733b167f58b0256/transformed/work-runtime-2.9.0/AndroidManifest.xml:21:5-44
 MERGED from [androidx.browser:browser:1.4.0] /root/.gradle/caches/transforms-4/79f464c68f7abde692eaa6636ff8a14e/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.browser:browser:1.4.0] /root/.gradle/caches/transforms-4/79f464c68f7abde692eaa6636ff8a14e/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.11.0-alpha02] /root/.gradle/caches/transforms-4/2a5f8c76f9fc2bd524657f047f6374f1/transformed/webkit-1.11.0-alpha02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.11.0-alpha02] /root/.gradle/caches/transforms-4/2a5f8c76f9fc2bd524657f047f6374f1/transformed/webkit-1.11.0-alpha02/AndroidManifest.xml:5:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /root/.gradle/caches/transforms-4/fbe1c74e6ea7840588562222a5713848/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /root/.gradle/caches/transforms-4/fbe1c74e6ea7840588562222a5713848/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /root/.gradle/caches/transforms-4/d14fa38ffda413e1ecee0a8fac26796f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
@@ -479,119 +482,119 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /root/.
 MERGED from [androidx.print:print:1.0.0] /root/.gradle/caches/transforms-4/629ae3da55abb8c27c85aa7a68aaffdf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /root/.gradle/caches/transforms-4/629ae3da55abb8c27c85aa7a68aaffdf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 	tools:overrideLibrary
-		ADDED from [com.google.android.gms:play-services-ads:22.6.0] /root/.gradle/caches/transforms-4/eb4c3785e89d0f5aa2cfc34ecc634e44/transformed/play-services-ads-22.6.0/AndroidManifest.xml:23:9-49
+		ADDED from [com.google.android.gms:play-services-ads:23.2.0] /root/.gradle/caches/transforms-4/824f7d47017ba58ff8cb8d0d69991d05/transformed/play-services-ads-23.2.0/AndroidManifest.xml:23:9-49
 	android:targetSdkVersion
 		INJECTED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /root/Note/NotepadPlusPlus/app/src/main/AndroidManifest.xml
 uses-permission#com.google.android.gms.permission.AD_ID
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:26:5-79
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:26:5-79
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /root/.gradle/caches/transforms-4/de79fb4df861898d18d2ad9ad5818ba5/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /root/.gradle/caches/transforms-4/de79fb4df861898d18d2ad9ad5818ba5/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /root/.gradle/caches/transforms-4/075f615396a86215feb13148c3cc6df1/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:26:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /root/.gradle/caches/transforms-4/075f615396a86215feb13148c3cc6df1/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:26:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:26:22-76
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:26:22-76
 uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:27:5-82
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:27:5-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:27:22-79
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:27:22-79
 uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:28:5-88
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:28:5-88
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:28:22-85
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:28:22-85
 uses-permission#android.permission.ACCESS_ADSERVICES_TOPICS
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:29:5-83
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:29:5-83
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:29:22-80
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:29:22-80
 queries
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:35:5-51:15
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:35:5-51:15
 intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:38:9-44:18
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:38:9-44:18
 action#android.intent.action.VIEW
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:39:13-65
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:39:13-65
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:39:21-62
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:39:21-62
 category#android.intent.category.BROWSABLE
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:41:13-74
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:41:13-74
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:41:23-71
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:41:23-71
 data
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:43:13-44
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:43:13-44
 	android:scheme
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:43:19-41
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:43:19-41
 intent#action:name:android.support.customtabs.action.CustomTabsService
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:47:9-49:18
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:47:9-49:18
 action#android.support.customtabs.action.CustomTabsService
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:48:13-90
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:48:13-90
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:48:21-87
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:48:21-87
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:56:9-61:43
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:56:9-61:43
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:59:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:59:13-37
 	tools:ignore
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:61:13-40
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:61:13-40
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:58:13-122
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:58:13-122
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:60:13-61
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:60:13-61
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:57:13-65
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:57:13-65
 provider#com.google.android.gms.ads.MobileAdsInitProvider
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:63:9-68:43
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:63:9-68:43
 	android:authorities
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:65:13-73
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:65:13-73
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:66:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:66:13-37
 	tools:ignore
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:68:13-40
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:68:13-40
 	android:initOrder
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:67:13-36
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:67:13-36
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:64:13-76
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:64:13-76
 service#com.google.android.gms.ads.AdService
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:70:9-74:43
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:70:9-74:43
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:72:13-35
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:72:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:73:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:73:13-37
 	tools:ignore
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:74:13-40
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:74:13-40
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:71:13-64
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:71:13-64
 activity#com.google.android.gms.ads.OutOfContextTestingActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:76:9-80:43
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:76:9-80:43
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:79:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:79:13-37
 	tools:ignore
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:80:13-40
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:80:13-40
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:78:13-122
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:78:13-122
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:77:13-82
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:77:13-82
 activity#com.google.android.gms.ads.NotificationHandlerActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:81:9-88:43
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:81:9-88:43
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:83:13-46
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:83:13-46
 	android:launchMode
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:85:13-44
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:85:13-44
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:84:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:84:13-37
 	tools:ignore
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:88:13-40
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:88:13-40
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:87:13-72
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:87:13-72
 	android:taskAffinity
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:86:13-36
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:86:13-36
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:82:13-82
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:82:13-82
 property
-ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:90:9-92:62
+ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:90:9-92:62
 	android:resource
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:92:13-59
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:92:13-59
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:22.6.0] /root/.gradle/caches/transforms-4/13176e6924fca3e835591f99032a463b/transformed/play-services-ads-lite-22.6.0/AndroidManifest.xml:91:13-65
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.2.0] /root/.gradle/caches/transforms-4/eff0b5561513b38b44368334173d6ca0/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml:91:13-65
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:18.0.0] /root/.gradle/caches/transforms-4/dfe5062106ccfe729a27cf74090d5bbe/transformed/play-services-base-18.0.0/AndroidManifest.xml:20:9-22:45
 	android:exported
@@ -607,11 +610,11 @@ MERGED from [androidx.work:work-runtime:2.9.0] /root/.gradle/caches/transforms-4
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /root/.gradle/caches/transforms-4/075f615396a86215feb13148c3cc6df1/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:22-65
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.2.0] /root/.gradle/caches/transforms-4/e4855e39e060f35e6e3ed58161242327/transformed/play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] /root/.gradle/caches/transforms-4/8dc5147520a30388d774325115293305/transformed/play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /root/.gradle/caches/transforms-4/e4855e39e060f35e6e3ed58161242327/transformed/play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /root/.gradle/caches/transforms-4/8dc5147520a30388d774325115293305/transformed/play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /root/.gradle/caches/transforms-4/e4855e39e060f35e6e3ed58161242327/transformed/play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /root/.gradle/caches/transforms-4/8dc5147520a30388d774325115293305/transformed/play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] /root/.gradle/caches/transforms-4/49eb09d94f08b013a4a6f990ea0b4311/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.work:work-runtime:2.9.0] /root/.gradle/caches/transforms-4/ee4895c1871980692733b167f58b0256/transformed/work-runtime-2.9.0/AndroidManifest.xml:29:9-37:20

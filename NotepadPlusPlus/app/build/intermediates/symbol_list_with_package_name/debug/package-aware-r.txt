@@ -3022,6 +3022,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable admob_close_button_black_circle_white_cross
 drawable admob_close_button_white_circle_black_cross
+drawable admob_close_button_white_cross
 drawable avd_hide_password
 drawable avd_show_password
 drawable bg_label_badge
@@ -3165,6 +3166,8 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable offline_dialog_background
+drawable offline_dialog_default_icon_42dp
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3537,6 +3540,9 @@ id notification_background
 id notification_main_column
 id notification_main_column_container
 id off
+id offline_dialog_advertiser_name
+id offline_dialog_image
+id offline_dialog_text
 id on
 id onInterceptTouchReturnSwipe
 id open_search_bar_text_view
@@ -3936,6 +3942,7 @@ layout notification_template_custom_big
 layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout offline_ads_dialog
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
@@ -4152,10 +4159,11 @@ string note_title
 string notifications_permission_confirm
 string notifications_permission_decline
 string notifications_permission_title
-string offline_notification_text
+string offline_dialog_image_description
+string offline_dialog_text
 string offline_notification_title
+string offline_notification_title_with_advertiser
 string offline_opt_in_confirm
-string offline_opt_in_confirmation
 string offline_opt_in_decline
 string offline_opt_in_message
 string offline_opt_in_title

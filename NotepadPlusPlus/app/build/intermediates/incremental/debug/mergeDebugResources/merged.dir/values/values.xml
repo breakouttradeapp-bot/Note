@@ -1901,6 +1901,8 @@
     <item name="navigation_bar_item_labels_group" type="id"/>
     <item name="navigation_bar_item_large_label_view" type="id"/>
     <item name="navigation_bar_item_small_label_view" type="id"/>
+    <item name="offline_dialog_advertiser_name" type="id"/>
+    <item name="offline_dialog_image" type="id"/>
     <item name="parent_matrix" type="id"/>
     <item name="pooling_container_listener_holder_tag" type="id"/>
     <item name="progress_circular" type="id"/>
@@ -2248,14 +2250,16 @@
       Don\'t allow</string>
     <string description="Body of the dialog presented when an ad wants to grant notifications permission. [CHAR_LIMIT=NONE]" name="notifications_permission_title">
       Allow app to send you notifications?</string>
-    <string description="Text of the notification which directs the user to the landing page of the ad. [CHAR_LIMIT=NONE]" name="offline_notification_text">
-      Tap to open ad</string>
+    <string description="Describes content of the offline dialog image view. This property is used primarily for accessibility. [CHAR_LIMIT=NONE]" name="offline_dialog_image_description">
+      Icon</string>
+    <string description="Confirmation text displayed when the user opts in to get a notification. [CHAR_LIMIT=NONE]" name="offline_dialog_text">
+      Thanks for your interest.\nWe will share more once you\'re back online.</string>
     <string description="Title of the notification which directs the user to the landing page of the ad. [CHAR_LIMIT=NONE]" name="offline_notification_title">
-      View the ad you saved when you were offline</string>
+      You are back online! Let\'s pick up where we left off</string>
+    <string description="Title of the notification which directs the user to the landing page of the ad. Includes the advertiser name [CHAR_LIMIT=NONE]" name="offline_notification_title_with_advertiser">
+      You are back online! Continue learning about %s</string>
     <string description="Label on the button to opt in to a notification later when the user is back online. [CHAR_LIMIT=12]" name="offline_opt_in_confirm">
       OK</string>
-    <string description="Confirmation text displayed when the user opts in to get a notification. [CHAR_LIMIT=NONE]" name="offline_opt_in_confirmation">
-      You\'ll get a notification with the link when you\'re back online</string>
     <string description="Label on the button to decline to get a notification later when the user is back online. [CHAR_LIMIT=12]" name="offline_opt_in_decline">
       No thanks</string>
     <string description="Body of the dialog presented when an ad is clicked while offline. [CHAR_LIMIT=NONE]" name="offline_opt_in_message">
