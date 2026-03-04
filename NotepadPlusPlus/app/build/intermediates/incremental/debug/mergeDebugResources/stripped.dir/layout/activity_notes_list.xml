@@ -71,7 +71,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             ads:adSize="BANNER"
-            ads:adUnitId="ca-app-pub-3940256099942544/6300978111" />
+            ads:adUnitId="ca-app-pub-1607968585289432/7171561623" />
 
         <!-- ✅ RecyclerView -->
         <androidx.recyclerview.widget.RecyclerView

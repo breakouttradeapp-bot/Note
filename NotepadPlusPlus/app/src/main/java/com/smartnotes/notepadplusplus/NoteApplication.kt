@@ -5,6 +5,7 @@ import android.app.NotificationChannel
 import android.app.NotificationManager
 import android.os.Build
 import com.google.android.gms.ads.MobileAds
+import com.google.android.gms.ads.RequestConfiguration
 import com.smartnotes.notepadplusplus.data.database.NoteDatabase
 import com.smartnotes.notepadplusplus.data.repository.NoteRepository
 import com.smartnotes.notepadplusplus.utils.PreferencesManager
@@ -37,6 +38,14 @@ class NoteApplication : Application() {
     }
 
     private fun initializeAdMob() {
+
+        // Add your test device ID here to avoid accidental policy violations
+        val configuration = RequestConfiguration.Builder()
+            .setTestDeviceIds(listOf("YOUR_DEVICE_ID"))
+            .build()
+
+        MobileAds.setRequestConfiguration(configuration)
+
         // Initialize Mobile Ads SDK
         MobileAds.initialize(this) { }
     }
