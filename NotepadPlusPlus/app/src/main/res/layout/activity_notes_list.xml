@@ -65,15 +65,15 @@
         android:orientation="vertical"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
-        <!-- ✅ Ad Banner (TOP OF CONTENT) -->
+        <!-- ✅ Ad Banner -->
         <com.google.android.gms.ads.AdView
             android:id="@+id/adView"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             ads:adSize="BANNER"
             ads:adUnitId="ca-app-pub-1607968585289432/7171561623" />
 
-        <!-- ✅ RecyclerView -->
+        <!-- RecyclerView -->
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recyclerView"
             android:layout_width="match_parent"

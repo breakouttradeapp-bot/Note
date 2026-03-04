@@ -17,6 +17,8 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.MobileAds
+import com.google.android.gms.ads.AdListener
+import com.google.android.gms.ads.LoadAdError
 import com.google.android.material.chip.Chip
 import com.google.android.material.snackbar.Snackbar
 import com.smartnotes.notepadplusplus.NoteApplication
@@ -63,7 +65,20 @@ class NotesListActivity : AppCompatActivity() {
     }
 
     private fun setupAdMob() {
+
         val adRequest = AdRequest.Builder().build()
+
+        binding.adView.adListener = object : AdListener() {
+
+            override fun onAdLoaded() {
+                android.util.Log.d("ADMOB", "Ad loaded successfully")
+            }
+
+            override fun onAdFailedToLoad(error: LoadAdError) {
+                android.util.Log.e("ADMOB", "Ad failed: ${error.message}")
+            }
+        }
+
         binding.adView.loadAd(adRequest)
     }
 
@@ -93,6 +108,7 @@ class NotesListActivity : AppCompatActivity() {
         updateLayoutManager()
         binding.recyclerView.adapter = adapter
         binding.recyclerView.setHasFixedSize(false)
+
         binding.recyclerView.addOnScrollListener(object : RecyclerView.OnScrollListener() {
             override fun onScrolled(rv: RecyclerView, dx: Int, dy: Int) {
                 if (dy > 12) binding.fabAddNote.shrink()
@@ -112,6 +128,7 @@ class NotesListActivity : AppCompatActivity() {
         adapter.setGridMode(isGridMode)
         updateLayoutManager()
         viewModel.setViewMode(if (isGridMode) "grid" else "list")
+
         binding.toolbar.menu?.findItem(R.id.menu_view_toggle)?.setIcon(
             if (isGridMode) R.drawable.ic_list else R.drawable.ic_grid
         )
@@ -144,17 +161,18 @@ class NotesListActivity : AppCompatActivity() {
             override fun onSwiped(vh: RecyclerView.ViewHolder, direction: Int) {
                 val pos = vh.adapterPosition
 
-                // ✅ FIX APPLIED HERE
                 if (pos == RecyclerView.NO_POSITION || pos < 0) return
 
                 val note = adapter.currentList.getOrNull(pos) ?: return
                 viewModel.deleteNote(note)
+
                 Snackbar.make(binding.root, "Note deleted", Snackbar.LENGTH_LONG)
                     .setAction("UNDO") { viewModel.undoDelete() }
                     .setActionTextColor(resources.getColor(R.color.primary, theme))
                     .show()
             }
         }
+
         ItemTouchHelper(swipe).attachToRecyclerView(binding.recyclerView)
     }
 
@@ -167,10 +185,13 @@ class NotesListActivity : AppCompatActivity() {
                             binding.progressBar.visible()
                             binding.layoutEmpty.gone()
                         }
+
                         is UiState.Success -> {
                             binding.progressBar.gone()
                             val notes = state.data
+
                             supportActionBar?.subtitle = "${notes.size} notes"
+
                             if (notes.isEmpty()) {
                                 binding.recyclerView.gone()
                                 binding.layoutEmpty.visible()
@@ -180,6 +201,7 @@ class NotesListActivity : AppCompatActivity() {
                                 adapter.submitList(notes)
                             }
                         }
+
                         is UiState.Error -> {
                             binding.progressBar.gone()
                             Snackbar.make(binding.root, state.message, Snackbar.LENGTH_SHORT).show()
@@ -191,7 +213,9 @@ class NotesListActivity : AppCompatActivity() {
 
         lifecycleScope.launch {
             repeatOnLifecycle(Lifecycle.State.STARTED) {
-                viewModel.allLabels.collect { labels -> buildLabelChips(labels) }
+                viewModel.allLabels.collect { labels ->
+                    buildLabelChips(labels)
+                }
             }
         }
 
@@ -199,6 +223,7 @@ class NotesListActivity : AppCompatActivity() {
             repeatOnLifecycle(Lifecycle.State.STARTED) {
                 viewModel.viewMode.collect { mode ->
                     val grid = mode == "grid"
+
                     if (grid != isGridMode) {
                         isGridMode = grid
                         adapter.setGridMode(isGridMode)
@@ -211,10 +236,12 @@ class NotesListActivity : AppCompatActivity() {
 
     private fun buildLabelChips(labels: List<String>) {
         binding.chipGroupLabels.removeAllViews()
+
         if (labels.isEmpty()) {
             binding.chipGroupLabels.gone()
             return
         }
+
         binding.chipGroupLabels.visible()
 
         val allChip = Chip(this).apply {
@@ -223,6 +250,7 @@ class NotesListActivity : AppCompatActivity() {
             isChecked = true
             setOnClickListener { viewModel.setFilterLabel("") }
         }
+
         binding.chipGroupLabels.addView(allChip)
 
         labels.forEach { label ->
@@ -231,11 +259,13 @@ class NotesListActivity : AppCompatActivity() {
                 isCheckable = true
                 setOnClickListener { viewModel.setFilterLabel(label) }
             }
+
             binding.chipGroupLabels.addView(chip)
         }
     }
 
     private fun showNoteContextMenu(note: NoteEntity, anchor: View) {
+
         val options = arrayOf(
             if (note.isPinned) "Unpin" else "📌 Pin to Top",
             if (note.isArchived) "Unarchive" else "📦 Archive",
@@ -245,6 +275,7 @@ class NotesListActivity : AppCompatActivity() {
             "📕 Export as PDF",
             "🗑️ Delete"
         )
+
         AlertDialog.Builder(this)
             .setTitle(note.title.take(40).ifBlank { "Note" })
             .setItems(options) { _, which ->
@@ -260,7 +291,8 @@ class NotesListActivity : AppCompatActivity() {
                     5 -> ExportUtils.exportAsPdf(this, note)
                     6 -> confirmDelete(note)
                 }
-            }.show()
+            }
+            .show()
     }
 
     private fun confirmDelete(note: NoteEntity) {
@@ -275,9 +307,12 @@ class NotesListActivity : AppCompatActivity() {
     private fun showSortDialog() {
         val options = arrayOf("Last Updated", "Date Created", "Title A–Z")
         val keys = arrayOf("updated", "created", "title")
+
         AlertDialog.Builder(this)
             .setTitle("Sort Notes By")
-            .setItems(options) { _, i -> viewModel.setSortBy(keys[i]) }
+            .setItems(options) { _, i ->
+                viewModel.setSortBy(keys[i])
+            }
             .show()
     }
 
